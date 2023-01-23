@@ -177,8 +177,7 @@
             "EMAIL_CATALOG_MODIFIED": true
         },
         "constraint": {
-            "PRIMARY": true,
-            "EMAIL_CATALOG_PRODUCT_ID_CATALOG_PRODUCT_ENTITY_ENTITY_ID": true
+            "PRIMARY": true
         }
     },
     "email_rules": {
